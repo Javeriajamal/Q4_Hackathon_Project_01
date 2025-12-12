@@ -1,7 +1,0 @@
-export default [
-  require("C:\\Physical AI And Humanoid Robotics Textbook\\website\\.docusaurus\\docusaurus-plugin-css-cascade-layers\\default\\layers.css"),
-  require("C:\\Physical AI And Humanoid Robotics Textbook\\website\\node_modules\\infima\\dist\\css\\default\\default.css"),
-  require("C:\\Physical AI And Humanoid Robotics Textbook\\website\\node_modules\\@docusaurus\\theme-classic\\lib\\prism-include-languages"),
-  require("C:\\Physical AI And Humanoid Robotics Textbook\\website\\node_modules\\@docusaurus\\theme-classic\\lib\\nprogress"),
-  require("C:\\Physical AI And Humanoid Robotics Textbook\\website\\src\\css\\custom.css"),
-];
