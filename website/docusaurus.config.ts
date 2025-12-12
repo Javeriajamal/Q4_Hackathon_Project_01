@@ -105,7 +105,7 @@ const config: Config = {
           items: [
             {
               label: 'Physical AI & Humanoid Robotics',
-              to: '/docs/book',
+              to: '/docs/intro',
             },
           ],
         },

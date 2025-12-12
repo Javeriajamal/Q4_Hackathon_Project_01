@@ -1,0 +1,24 @@
+{
+  "id": "book/chapter-1/foundations-and-principles",
+  "title": "Foundations and Principles",
+  "description": "Learning Objectives",
+  "source": "@site/docs/book/chapter-1/foundations-and-principles.mdx",
+  "sourceDirName": "book/chapter-1",
+  "slug": "/book/chapter-1/foundations-and-principles",
+  "permalink": "/docs/book/chapter-1/foundations-and-principles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/book/chapter-1/foundations-and-principles.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Foundations and Principles"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Current State and Applications",
+    "permalink": "/docs/book/chapter-1/current-state-and-applications"
+  }
+}

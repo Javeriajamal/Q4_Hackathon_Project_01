@@ -1,0 +1,28 @@
+{
+  "id": "book/chapter-4/healthcare-and-social-robotics",
+  "title": "Healthcare and Social Robotics",
+  "description": "Learning Objectives",
+  "source": "@site/docs/book/chapter-4/healthcare-and-social-robotics.mdx",
+  "sourceDirName": "book/chapter-4",
+  "slug": "/book/chapter-4/healthcare-and-social-robotics",
+  "permalink": "/docs/book/chapter-4/healthcare-and-social-robotics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/book/chapter-4/healthcare-and-social-robotics.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Healthcare and Social Robotics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Industrial and Service Robotics",
+    "permalink": "/docs/book/chapter-4/industrial-and-service-robotics"
+  },
+  "next": {
+    "title": "Emerging Technologies and Trends",
+    "permalink": "/docs/book/chapter-5/emerging-technologies-and-trends"
+  }
+}

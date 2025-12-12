@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import {useTransition, type ReactNode} from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -14,16 +14,17 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
 
-      <img src="/img/robotics-img.png" alt="hero image" 
-        style={{ 
-        width:'370px' ,
-        height:'370px',
-        marginLeft: '130px',
-        borderRadius: '15px'
-       }} 
- />
+      <img src="/img/robotics-img.jpg" alt="hero image"
+      style={{ 
+      width:'370px' ,
+      height:'370px',
+      marginLeft: '130px',
+      borderRadius: '15px',
+      boxShadow: '0 8px 50px 0 rgba(0, 0, 0, 0.2), 0 20px 30px 0 rgba(0, 0, 0, 0.19)',
       
-
+      }}
+       />
+    
       <div className="container">
         <div className={styles.heroContent}>
           <Heading as="h1" className="hero__title">
@@ -35,7 +36,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/book">
+              to="/docs/book/chapter-1/foundations-and-principles">
               Start Reading - 20min ⏱️
             </Link>
             <Link
